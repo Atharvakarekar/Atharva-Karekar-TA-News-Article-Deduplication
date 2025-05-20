@@ -1,0 +1,51 @@
+article_id,title,publication_date,source_url,content_snippet,exact_duplicate_of,near_duplicate_of
+1,Quick Brown Fox Jumps Over Dog,12/24/2020,https://news.example.com/article/1,The quick brown fox jumps over the lazy dog. It then runs into the forest.,1,1
+2,Quick Brown Fox Jumps Over Dog,9/10/2020,https://news.example.com/article/2,The fast brown fox leaps over the lazy dog. It then runs into the woods.,2,2
+3,Quick Brown Fox Jumps Over Dog,2/23/2020,https://news.example.com/article/3,The quick brown fox jumps over the lazy dog.,3,3
+4,Dog Over Jumps Fox Brown Quick,5/14/2020,https://news.example.com/article/4,It then runs into the forest. The quick brown fox jumps over the lazy dog.,4,4
+5,Breaking: Quick Brown Fox Jumps Over Dog,9/21/2020,https://news.example.com/article/5,Breaking News: The quick brown fox jumps over the lazy dog. It then runs into the forest.,5,5
+6,quick brown fox jumps over dog,1/7/2020,https://news.example.com/article/6,the quick brown fox jumps over the lazy dog. it then runs into the forest.,1,1
+7,Tech Stocks Rally Boosts Market,6/3/2020,https://news.example.com/article/7,"Stock markets surged today as tech stocks rallied, analysts remain cautious.",7,7
+8,Tech Stocks Rally Boosts Market,3/8/2020,https://news.example.com/article/8,"Stock markets surged today as tech stocks rallied, analysts remain cautious.",7,7
+9,Tech Stocks Rally Boosts Market,1/6/2020,https://news.example.com/article/9,"Stock markets surged today as tech stocks rallied, analysts remain cautious.",7,7
+10,Market Boosts Rally Stocks Tech,7/26/2020,https://news.example.com/article/10,"Stock markets surged today as tech stocks rallied, analysts remain cautious.",10,10
+11,Breaking: Tech Stocks Rally Boosts Market,8/3/2020,https://news.example.com/article/11,"Breaking News: Stock markets surged today as tech stocks rallied, analysts remain cautious.",11,11
+12,tech stocks rally boosts market,6/4/2020,https://news.example.com/article/12,"stock markets surged today as tech stocks rallied, analysts remain cautious.",7,7
+13,New Coffee Shop Opens Downtown,4/19/2020,https://news.example.com/article/13,A new coffee shop opened downtown offering artisanal brews and pastries.,13,13
+14,New Coffee Shop Opens Downtown,3/13/2020,https://news.example.com/article/14,A new coffee shop opened downtown offering artisanal brews and pastries.,13,13
+15,New Coffee Shop Opens Downtown,5/20/2020,https://news.example.com/article/15,A new coffee shop opened downtown offering artisanal brews and pastries.,13,13
+16,Downtown Opens Shop Coffee New,10/14/2020,https://news.example.com/article/16,A new coffee shop opened downtown offering artisanal brews and pastries.,16,16
+17,Breaking: New Coffee Shop Opens Downtown,9/12/2020,https://news.example.com/article/17,Breaking News: A new coffee shop opened downtown offering artisanal brews and pastries.,17,17
+18,new coffee shop opens downtown,5/17/2020,https://news.example.com/article/18,a new coffee shop opened downtown offering artisanal brews and pastries.,13,13
+19,City Council Approves Zoning Regulations,8/20/2020,https://news.example.com/article/19,The city council approved the new zoning regulations after lengthy debate.,19,19
+20,City Council Approves Zoning Regulations,2/20/2020,https://news.example.com/article/20,The city council approved the new zoning regulations after lengthy debate.,19,19
+21,City Council Approves Zoning Regulations,11/9/2020,https://news.example.com/article/21,The city council approved the new zoning regulations after lengthy debate.,19,19
+22,Regulations Zoning Approves Council City,7/26/2020,https://news.example.com/article/22,The city council approved the new zoning regulations after lengthy debate.,22,22
+23,Breaking: City Council Approves Zoning Regulations,7/22/2020,https://news.example.com/article/23,Breaking News: The city council approved the new zoning regulations after lengthy debate.,23,23
+24,city council approves zoning regulations,8/20/2020,https://news.example.com/article/24,the city council approved the new zoning regulations after lengthy debate.,19,19
+25,Record High Global Temperatures in June,12/10/2020,https://news.example.com/article/25,"Global temperatures reached record highs in June, raising climate concerns.",25,25
+26,Record High Global Temperatures in June,1/21/2020,https://news.example.com/article/26,"Global temperatures reached record highs in June, raising climate concerns.",25,25
+27,Record High Global Temperatures in June,11/21/2020,https://news.example.com/article/27,"Global temperatures reached record highs in June, raising climate concerns.",25,25
+28,June in Temperatures Global High Record,1/8/2020,https://news.example.com/article/28,"Global temperatures reached record highs in June, raising climate concerns.",28,28
+29,Breaking: Record High Global Temperatures in June,9/7/2020,https://news.example.com/article/29,"Breaking News: Global temperatures reached record highs in June, raising climate concerns.",29,29
+30,record high global temperatures in june,4/29/2020,https://news.example.com/article/30,"global temperatures reached record highs in june, raising climate concerns.",25,25
+31,International Art Fair Kicks Off in Paris,5/21/2025,https://news.example.com/article/31,Art enthusiasts gather as the annual international art fair opens its doors in Paris...,31,31
+32,Paris hosts annual international art fair,5/21/2025,https://news.example.org/story/32,"The renowned art fair has started in Paris, attracting galleries and collectors worldwide...",32,32
+33,National Highway Expansion Project Approved,5/21/2025,https://news.example.com/article/33,Government officials approved the expansion of the national highway network to improve connectivity...,33,33
+34,Highway network expansion gets government approval,5/21/2025,https://news.example.org/story/34,Approval granted for a major project to expand the national highway network across the country...,34,34
+35,Breakthrough in Renewable Energy Storage,5/21/2025,https://news.example.com/article/35,Researchers developed a new battery technology that dramatically improves renewable energy storage...,35,35
+36,New battery tech boosts renewable energy storage,5/21/2025,https://news.example.org/story/36,A cutting-edge battery design offers enhanced capacity and lifespan for renewable energy systems...,36,36
+37,Historic Monsoon Floods Impact Mumbai,5/21/2025,https://news.example.com/article/37,"Record monsoon rains have led to severe flooding across Mumbai, displacing thousands...",37,37
+38,Mumbai hit by historic monsoon floods,5/21/2025,https://news.example.org/story/38,Thousands displaced as unprecedented monsoon rains cause widespread flooding in Mumbai...,38,38
+39,Tech Giant Releases New AI Chip,5/21/2025,https://news.example.com/article/39,"A leading tech company unveiled its latest AI processor, promising faster machine learning tasks...",39,39
+40,New AI processor launched by tech giant,5/21/2025,https://news.example.org/story/40,The recently released AI chip boasts significant speed improvements for ML workloads...,40,40
+41,Research Shows Link Between Diet and Mental Health,5/21/2025,https://news.example.com/article/41,A new study reveals how dietary choices can influence mental health outcomes...,41,41
+42,"Diet linked to mental health, study finds",5/21/2025,https://news.example.org/story/42,Researchers found strong evidence that certain diets can affect cognitive and emotional well-being...,42,42
+43,Electric Vehicle Sales Surge in Q1,5/21/2025,https://news.example.com/article/43,"Electric vehicle sales rose sharply in the first quarter, driven by new model launches...",43,43
+44,Q1 sees surge in electric vehicle sales,5/21/2025,https://news.example.org/story/44,New EV models and incentives contribute to a significant increase in first-quarter sales...,44,44
+45,Space Observatory Detects New Exoplanet,5/21/2025,https://news.example.com/article/45,Astronomers using a space telescope discovered a new habitable-zone exoplanet...,45,45
+46,Astronomers find exoplanet in habitable zone,5/21/2025,https://news.example.org/story/46,The latest findings reveal an Earth-like exoplanet detected in the habitable zone of its star...,46,46
+47,Education Board Revamps Curriculum Standards,5/21/2025,https://news.example.com/article/47,The national education board announced updates to curriculum standards for next academic year...,47,47
+48,Curriculum standards updated by education board,5/21/2025,https://news.example.org/story/48,New curriculum guidelines aim to modernize teaching across schools nationwide...,48,48
+49,Major Film Festival Awards Top Talent,5/21/2025,https://news.example.com/article/49,"Winners were announced at the international film festival, honoring outstanding cinematic achievements...",49,49
+50,International film festival crowns winners,5/21/2025,https://news.example.org/story/50,The annual film festival celebrated top filmmakers and actors with prestigious awards...,50,50
