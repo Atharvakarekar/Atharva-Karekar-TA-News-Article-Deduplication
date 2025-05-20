@@ -132,7 +132,6 @@ Flag              | Default | Description
 `--num-perm`      | 128     | Number of permutations for MinHash                       
 `--block-by-date` | off     | Restrict near-dup comparison to same `publication_date`  
 
-> **Pro tip**: Lower `--threshold` or `--shingle-size` to catch looser paraphrases; raise for stricter matching.
 
 ---
 
