@@ -5,8 +5,6 @@
    ```bash
    # Install core libraries
    pip install pandas nltk datasketch
-
-   # Download NLTK tokenizers & stopwords (once)
    python -m nltk.downloader punkt stopwords
    ```
 3. **Run the deduplication**:
@@ -14,10 +12,7 @@
    python dedupy.py \
      --input  Input_dedup.csv \
      --output dedup_output.csv \
-     --threshold     0.8  # Jaccard sim. cutoff for fuzzy matches
-     --shingle-size  5    # words per shingle
-     --num-perm      128  # permutations for MinHash
-     [--block-by-date]    # optional: only compare articles on same date
+     --threshold     0.8  
    ```
 
 ---
@@ -51,14 +46,7 @@ Column             | Type       | Description
 `source_url`       | string     | Original article URL            
 `content_snippet`  | string     | Article body or summary snippet 
 
-Sample (`Input_dedup.csv`):
-
-```csv
-article_id,title,publication_date,source_url,content_snippet
-1,Big Storm Hits City,2025-05-18,http://A.com/storm,"A big storm has hit the city causing widespread damage..."
-2,Big storm hits city,2025-05-18,http://B.com/weather,"A big storm has hit the city leading to widespread destruction..."
-3,Local Team Wins Championship,2025-05-17,http://C.com/sports,"The local team clinched the championship after a thrilling match..."
-```
+Sample (`Input_dedup.csv`)
 
 ---
 
@@ -110,14 +98,7 @@ Column               | Description
 - If `exact_duplicate_of != article_id`, the row is an **exact duplicate** of that first ID.
 - If `near_duplicate_of != article_id`, the row belongs to a **near‑duplicate cluster** headed by that ID.
 
-Sample output (`dedup_output.csv`):
-
-```csv
-article_id,title,publication_date,source_url,content_snippet,exact_duplicate_of,near_duplicate_of
-1,Big Storm Hits City,2025-05-18,http://A.com/storm,...,1,1
-2,Big storm hits city,2025-05-18,http://B.com/weather,...,2,1
-3,Local Team Wins Championship,2025-05-17,http://C.com/sports,...,3,3
-```
+Sample output (`dedup_output.csv`)
 
 ---
 
