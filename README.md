@@ -19,12 +19,12 @@
 
 ##  Dependencies
 
-Library    | Minimum Version | Purpose                                    
----------- | --------------- | ------------------------------------------
-Python     | 3.7+            | Runtime                                    
-pandas     | latest          | CSV I/O & data manipulation                
-nltk       | latest          | Tokenization & stopword removal            
-datasketch | latest          | MinHash & LSH for near‑duplicate detection 
+Library    | Minimum Version |                                  
+---------- | --------------- | 
+Python     | 3.7+            |                                   
+pandas     | latest          |                
+nltk       | latest          |             
+datasketch | latest          |  
 
 After `pip install`, download required NLTK corpora exactly once:
 
